@@ -15,10 +15,10 @@ This project involves performing basic processing and analysis which includes:
 - Estimation of planet to star radius
 
 # Target System
-**Star**: HAT-P-7
-**TESS Identifier**: TIC 424865156
-**Planet**: HAT-P-7 b
-**Orbital Period**: 2.20473 days
+- **Star**: HAT-P-7
+- **TESS Identifier**: TIC 424865156
+- **Planet**: HAT-P-7 b
+- **Orbital Period**: 2.20473 days
 HAT-P-7 b is a _hot jupiter_, a gas giant planet orbiting very close to its host star.
 
 # Methods of Processing
