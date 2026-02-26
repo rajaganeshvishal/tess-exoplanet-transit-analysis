@@ -19,6 +19,7 @@ This project involves performing basic processing and analysis which includes:
 - **TESS Identifier**: TIC 424865156
 - **Planet**: HAT-P-7 b
 - **Orbital Period**: 2.20473 days
+
 HAT-P-7 b is a _hot jupiter_, a gas giant planet orbiting very close to its host star.
 
 # Methods of Processing
