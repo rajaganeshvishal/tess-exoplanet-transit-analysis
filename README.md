@@ -39,7 +39,9 @@ depth = 1 - F_min
 - Planet to star ratio:
 The ratio between the plnaet radius and stellar radius is found uisng:
   R<sub>p</sub>/R<sub>s</sub> = √(Transit Depth)
-#
+## Transit Curve
+### Binned Transit
+![Binned Transit](plots/binned_transit_curve.png)
 # Result 
 Measured Transit Depth
 0.0063.
