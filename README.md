@@ -1,5 +1,5 @@
 # tess-exoplanet-transit-analysis
-A project using python to detect exoplanet using the TESS data and characterize the signal using python libraries like numpy, matplotlib, lightkurve.
+A small personal project using python to detect exoplanet using the TESS data and characterize the signal using python libraries like numpy, matplotlib, lightkurve.
 # Project Overview
 This project shows the detection of an _exoplanet_ and analysis of _transit_ using photometric light curve data from the **TESS(Transiting Exoplanet Survey Satellite)** mission.
 
