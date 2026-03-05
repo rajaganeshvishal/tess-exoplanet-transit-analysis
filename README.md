@@ -49,7 +49,7 @@ The ratio between the planet radius and stellar radius is found using:
 - `jupyter notebook`
 # Transit Curve
 ### Raw Light Curve
-![Raw Plot](plots/Raw_curve_plot.png)
+![Raw Plot](plots/1Raw_curve_plot.png)
 ### Binned Transit
 ![Binned Transit](plots/binned_transit_curve.png)
 # Result 
